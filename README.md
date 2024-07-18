@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pallab-143
+- 👋 Hi, I’m @Pallab Palei
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on (No idea)😂
